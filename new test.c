@@ -9,5 +9,3 @@ void main() {
 void oi() {
 	printf("Test");
 }
-
-ubninikniniu
