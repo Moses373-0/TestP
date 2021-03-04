@@ -8,4 +8,5 @@ void main() {
 
 void oi() {
 	printf("Test");
+	printf("From br1");
 }
