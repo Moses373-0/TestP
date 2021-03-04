@@ -9,3 +9,5 @@ void main() {
 void oi() {
 	printf("Test");
 }
+
+lol main
